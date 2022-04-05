@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+}
+.pesquisa::-webkit-input-placeholder{
+  color:#fff;
+  font-style: bold;
+}
